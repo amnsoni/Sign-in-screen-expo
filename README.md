@@ -22,6 +22,10 @@ then run
 ps: many things can be improved in this project, i know
     this is littraly my first project in Mobile App Development.
 
+App Screenshot below -
+
+![App screenshot](assets/images/Screenshot_2026-05-10-19-02-55-54_f73b71075b1de7323614b647fe394240.jpg)
+
 
 # Welcome to your Expo app 👋
 
